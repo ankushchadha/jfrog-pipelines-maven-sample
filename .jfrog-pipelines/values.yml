@@ -1,4 +1,4 @@
 gitProvider: int_github_ac
 artifactory: int_artifactory
 repoPath: ankushchadha/jfrog-pipelines-maven-sample
-deployerRepo: libs-release-local
+deployerRepo: default-libs-release-local
